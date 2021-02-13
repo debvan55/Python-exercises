@@ -1,5 +1,5 @@
 
-# ${1:Python Exercises}
+# Python Exercises
 A series of exercises to gain better understanding of basic program concepts with Python.
 ## Usage
 Run in any Python IDE
