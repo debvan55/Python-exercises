@@ -5,7 +5,7 @@ A series of exercises to gain better understanding of basic program concepts wit
 **1**
 *Simple expressions and statements*
  **2** 
-Math functions and expressions*
+*Math functions and expressions*
  **3**
 *Simple Parameterized function*
  **4**
@@ -28,7 +28,7 @@ Math functions and expressions*
 ## 5
 *Loops and string sequences*
 
-##6
+## 6
 *Lists*
 
 ## 7
