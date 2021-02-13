@@ -2,21 +2,21 @@
 # Python Exercises
 A series of exercises to gain better understanding of basic program concepts with Python.
 ## 1
-###1
+1
 Simple expressions and statements
-###2 
+2 
 Math functions and expressions
-###3
+3
 Simple Parameterized function
-###4
+4
 Simple high-order function
-###5
+5
 Repetitive code
-###6
+6
 Reducing repetitive code with functions
 
 ##2
-###1-6
+1-6
 Use of turtle module to accomplish patterns with loops
 
 ##3
