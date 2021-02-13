@@ -3,39 +3,39 @@
 A series of exercises to gain better understanding of basic program concepts with Python.
 ## 1
 **1**
-*Simple expressions and statements
+*Simple expressions and statements*
 **2** 
-Math functions and expressions
+Math functions and expressions*
 **3**
-Simple Parameterized function
+*Simple Parameterized function*
 **4**
-Simple high-order function
+*Simple high-order function*
 **5**
-Repetitive code
+*Repetitive code*
 **6**
-Reducing repetitive code with functions
+*Reducing repetitive code with functions*
 
-##2
+###2
 **1-6**
 *Use of turtle module to accomplish patterns with loops*
 
-##3
-*Conditionals and recursion
+###3
+*Conditionals and recursion*
 
-##4
-*Computing with functions
+###4
+*Computing with functions*
 
-##5
-*Loops and string sequences
+###5
+*Loops and string sequences*
 
-##6
-*Lists
+###6
+*Lists*
 
-##7
-*Dictionaries and tuples
+###7
+*Dictionaries and tuples*
 
-##8
-*Files and error handling
+###8
+*Files and error handling*
 
 ## Usage
 Run in any Python IDE
